@@ -1,2 +1,2 @@
 # pythonWorks
-some pthon codes 
+some python codes 
